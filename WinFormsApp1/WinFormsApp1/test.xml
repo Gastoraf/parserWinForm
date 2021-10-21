@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test>
+	<question id="8" difficulty="1" time="1" mark="2">
+	  <text>Какких камней не бывает в речке?</text>
+    <answer id="2" isRight="0">
+		<text>Волосатых</text>
+    </answer>
+    <answer id="3" isRight="1">
+      <text>Сухих</text>
+    </answer>
+    <answer id="4" isRight="0">
+      <text>Красных</text>
+    </answer>
+    <answer id="5" isRight="0">
+      <text>Радужных</text>
+    </answer>
+  </question>
+	<question id="9" difficulty="1" time="1" mark="1">
+	  <text>Как каплю превратить в цаплю?</text>
+    <answer id="2" isRight="0">
+      <text>Никак</text>
+    </answer>
+    <answer id="3" isRight="1">
+      <text>Заменить букву</text>
+    </answer>
+  </question>
+	<question id="2" difficulty="1" time="1" mark="1">
+	  <text>Число 4/12, равно числу 268/780?</text>
+    <answer id="2" isRight="1">
+      <text>Нет</text>
+    </answer>
+    <answer id="3" isRight="0">
+      <text>Да</text>
+    </answer>
+  </question>
+	<question id="3" difficulty="1" time="1" mark="1">
+	  <text>Чему равен x? (4x = 12)</text>
+    <answer id="2" isRight="0">
+      <text>2</text>
+    </answer>
+    <answer id="3" isRight="1">
+      <text>3</text>
+    </answer>
+  </question>
+	<question id="4" difficulty="1" time="1" mark="1">
+	  <text>111 во второй степени?</text>
+    <answer id="2" isRight="0">
+      <text>12311</text>
+    </answer>
+    <answer id="3" isRight="0">
+      <text>111111</text>
+    </answer>
+    <answer id="4" isRight="1">
+      <text>12321</text>
+    </answer>
+  </question>
+</test>
